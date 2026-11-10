@@ -1,0 +1,476 @@
+{
+  "heldout_n": 150,
+  "train_n": 1000,
+  "table": {
+    "M1": {
+      "pre_pass1": 0.0,
+      "pre_pass64": 0.0,
+      "pre_F": 1.0,
+      "pre_G": 0.0,
+      "pre_coverage": 0.0,
+      "pre_handoff": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "pre_gap1": 0.0,
+      "pre_gap2": 0.0,
+      "pre_train_frac_solved": 0.0,
+      "pre_train_n_solved": 0,
+      "post_pass1_mean": 0.0,
+      "post_pass1_seeds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "post_pass64_mean": 0.0,
+      "post_pass64_seeds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "post_F_mean": 1.0,
+      "post_G_mean": 0.0,
+      "delta_pass1": 0.0,
+      "delta_pass64": 0.0,
+      "reward_first25_mean": 0.0,
+      "reward_last25_mean": 0.0
+    },
+    "M1+C100": {
+      "pre_pass1": 0.0,
+      "pre_pass64": 0.0,
+      "pre_F": 1.0,
+      "pre_G": 0.0,
+      "pre_coverage": 0.0,
+      "pre_handoff": {
+        "0": 0.0,
+        "1": 0.00496031746031746,
+        "2": 0.05555555555555555
+      },
+      "pre_gap1": 0.00496031746031746,
+      "pre_gap2": 0.05555555555555555,
+      "pre_train_frac_solved": 0.0,
+      "pre_train_n_solved": 0,
+      "post_pass1_mean": 0.0,
+      "post_pass1_seeds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "post_pass64_mean": 0.0,
+      "post_pass64_seeds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "post_F_mean": 1.0,
+      "post_G_mean": 0.0,
+      "delta_pass1": 0.0,
+      "delta_pass64": 0.0,
+      "reward_first25_mean": 0.0,
+      "reward_last25_mean": 0.0
+    },
+    "M1+C300": {
+      "pre_pass1": 0.0,
+      "pre_pass64": 0.0,
+      "pre_F": 1.0,
+      "pre_G": 0.0,
+      "pre_coverage": 0.0,
+      "pre_handoff": {
+        "0": 0.0,
+        "1": 0.002976190476190476,
+        "2": 0.1597222222222222
+      },
+      "pre_gap1": 0.002976190476190476,
+      "pre_gap2": 0.1597222222222222,
+      "pre_train_frac_solved": 0.01171875,
+      "pre_train_n_solved": 3,
+      "post_pass1_mean": 6.944444444444444e-05,
+      "post_pass1_seeds": [
+        0.00010416666666666667,
+        0.0,
+        0.00010416666666666667
+      ],
+      "post_pass64_mean": 0.0044444444444444444,
+      "post_pass64_seeds": [
+        0.006666666666666667,
+        0.0,
+        0.006666666666666667
+      ],
+      "post_F_mean": 0.9933333333333333,
+      "post_G_mean": 0.0016666666666666668,
+      "delta_pass1": 6.944444444444444e-05,
+      "delta_pass64": 0.0044444444444444444,
+      "reward_first25_mean": 0.0003125,
+      "reward_last25_mean": 0.0009375
+    },
+    "M2": {
+      "pre_pass1": 0.0,
+      "pre_pass64": 0.0,
+      "pre_F": 1.0,
+      "pre_G": 1.0,
+      "pre_coverage": 1.0,
+      "pre_handoff": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0
+      },
+      "pre_gap1": 0.0,
+      "pre_gap2": 0.0,
+      "pre_train_frac_solved": 0.0,
+      "pre_train_n_solved": 0,
+      "post_pass1_mean": 0.0,
+      "post_pass1_seeds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "post_pass64_mean": 0.0,
+      "post_pass64_seeds": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "post_F_mean": 1.0,
+      "post_G_mean": 1.0,
+      "delta_pass1": 0.0,
+      "delta_pass64": 0.0,
+      "reward_first25_mean": 0.0,
+      "reward_last25_mean": 0.0
+    },
+    "M2+C100": {
+      "pre_pass1": 0.00010416666666666667,
+      "pre_pass64": 0.006666666666666667,
+      "pre_F": 0.995,
+      "pre_G": 1.0,
+      "pre_coverage": 0.995,
+      "pre_handoff": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.011904761904761904
+      },
+      "pre_gap1": 0.0,
+      "pre_gap2": 0.011904761904761904,
+      "pre_train_frac_solved": 0.0,
+      "pre_train_n_solved": 0,
+      "post_pass1_mean": 3.472222222222222e-05,
+      "post_pass1_seeds": [
+        0.0,
+        0.0,
+        0.00010416666666666667
+      ],
+      "post_pass64_mean": 0.0022222222222222222,
+      "post_pass64_seeds": [
+        0.0,
+        0.0,
+        0.006666666666666667
+      ],
+      "post_F_mean": 1.0,
+      "post_G_mean": 1.0,
+      "delta_pass1": -6.944444444444446e-05,
+      "delta_pass64": -0.004444444444444445,
+      "reward_first25_mean": 0.00010416666666666667,
+      "reward_last25_mean": 0.0
+    },
+    "M2+C300": {
+      "pre_pass1": 0.037083333333333336,
+      "pre_pass64": 0.23333333333333334,
+      "pre_F": 1.0,
+      "pre_G": 1.0,
+      "pre_coverage": 1.0,
+      "pre_handoff": {
+        "0": 0.008928571428571428,
+        "1": 0.037698412698412696,
+        "2": 0.19246031746031747
+      },
+      "pre_gap1": 0.028769841269841268,
+      "pre_gap2": 0.18353174603174605,
+      "pre_train_frac_solved": 0.30859375,
+      "pre_train_n_solved": 79,
+      "post_pass1_mean": 0.20756944444444445,
+      "post_pass1_seeds": [
+        0.21927083333333333,
+        0.20052083333333334,
+        0.20291666666666666
+      ],
+      "post_pass64_mean": 0.30444444444444446,
+      "post_pass64_seeds": [
+        0.31333333333333335,
+        0.3,
+        0.3
+      ],
+      "post_F_mean": 0.225,
+      "post_G_mean": 1.0,
+      "delta_pass1": 0.17048611111111112,
+      "delta_pass64": 0.07111111111111112,
+      "reward_first25_mean": 0.06583333333333334,
+      "reward_last25_mean": 0.22375
+    }
+  },
+  "extensions": {
+    "E2_contextual_probes": {
+      "M1": {
+        "G": 0.0,
+        "F": 0.0,
+        "coverage_contextual": 0.0
+      },
+      "M1+C100": {
+        "G": 0.045625,
+        "F": 0.0325,
+        "coverage_contextual": 0.0325
+      },
+      "M1+C300": {
+        "G": 0.08375,
+        "F": 0.075,
+        "coverage_contextual": 0.075
+      },
+      "M2": {
+        "G": 0.0,
+        "F": 0.0,
+        "coverage_contextual": 0.0
+      },
+      "M2+C100": {
+        "G": 0.045625,
+        "F": 0.02875,
+        "coverage_contextual": 0.02875
+      },
+      "M2+C300": {
+        "G": 0.498125,
+        "F": 0.723125,
+        "coverage_contextual": 0.498125
+      }
+    },
+    "E3_prediction": {
+      "gains": {
+        "M1": {
+          "post_pass1_mean": 0.0,
+          "post_pass64_mean": 0.0,
+          "delta_pass1": 0.0,
+          "delta_pass64": 0.0
+        },
+        "M1+C100": {
+          "post_pass1_mean": 0.0,
+          "post_pass64_mean": 0.0,
+          "delta_pass1": 0.0,
+          "delta_pass64": 0.0
+        },
+        "M1+C300": {
+          "post_pass1_mean": 6.944444444444444e-05,
+          "post_pass64_mean": 0.0044444444444444444,
+          "delta_pass1": 6.944444444444444e-05,
+          "delta_pass64": 0.0044444444444444444
+        },
+        "M2": {
+          "post_pass1_mean": 0.0,
+          "post_pass64_mean": 0.0,
+          "delta_pass1": 0.0,
+          "delta_pass64": 0.0
+        },
+        "M2+C100": {
+          "post_pass1_mean": 3.472222222222222e-05,
+          "post_pass64_mean": 0.0022222222222222222,
+          "delta_pass1": -6.944444444444446e-05,
+          "delta_pass64": -0.004444444444444445
+        },
+        "M2+C300": {
+          "post_pass1_mean": 0.20756944444444445,
+          "post_pass64_mean": 0.30444444444444446,
+          "delta_pass1": 0.17048611111111112,
+          "delta_pass64": 0.07111111111111112
+        }
+      },
+      "spearman_support_vs_delta_pass1": 0.1796053020267749,
+      "spearman_support_vs_delta_pass64": 0.1796053020267749,
+      "spearman_coverage_vs_delta_pass1": 0.1311651671567906,
+      "spearman_coverage_vs_delta_pass64": 0.1311651671567906,
+      "threshold_sensitivity": {
+        "M1": {
+          "grid": {
+            "0.02/0.02": "acquisition-limited",
+            "0.02/0.05": "acquisition-limited",
+            "0.02/0.1": "acquisition-limited",
+            "0.02/0.2": "acquisition-limited",
+            "0.02/0.5": "acquisition-limited",
+            "0.05/0.02": "acquisition-limited",
+            "0.05/0.05": "acquisition-limited",
+            "0.05/0.1": "acquisition-limited",
+            "0.05/0.2": "acquisition-limited",
+            "0.05/0.5": "acquisition-limited",
+            "0.1/0.02": "acquisition-limited",
+            "0.1/0.05": "acquisition-limited",
+            "0.1/0.1": "acquisition-limited",
+            "0.1/0.2": "acquisition-limited",
+            "0.1/0.5": "acquisition-limited",
+            "0.2/0.02": "acquisition-limited",
+            "0.2/0.05": "acquisition-limited",
+            "0.2/0.1": "acquisition-limited",
+            "0.2/0.2": "acquisition-limited",
+            "0.2/0.5": "acquisition-limited",
+            "0.5/0.02": "acquisition-limited",
+            "0.5/0.05": "acquisition-limited",
+            "0.5/0.1": "acquisition-limited",
+            "0.5/0.2": "acquisition-limited",
+            "0.5/0.5": "acquisition-limited"
+          },
+          "modal": "acquisition-limited",
+          "modal_frac": 1.0
+        },
+        "M1+C100": {
+          "grid": {
+            "0.02/0.02": "acquisition-limited",
+            "0.02/0.05": "acquisition-limited",
+            "0.02/0.1": "acquisition-limited",
+            "0.02/0.2": "acquisition-limited",
+            "0.02/0.5": "acquisition-limited",
+            "0.05/0.02": "acquisition-limited",
+            "0.05/0.05": "acquisition-limited",
+            "0.05/0.1": "acquisition-limited",
+            "0.05/0.2": "acquisition-limited",
+            "0.05/0.5": "acquisition-limited",
+            "0.1/0.02": "acquisition-limited",
+            "0.1/0.05": "acquisition-limited",
+            "0.1/0.1": "acquisition-limited",
+            "0.1/0.2": "acquisition-limited",
+            "0.1/0.5": "acquisition-limited",
+            "0.2/0.02": "acquisition-limited",
+            "0.2/0.05": "acquisition-limited",
+            "0.2/0.1": "acquisition-limited",
+            "0.2/0.2": "acquisition-limited",
+            "0.2/0.5": "acquisition-limited",
+            "0.5/0.02": "acquisition-limited",
+            "0.5/0.05": "acquisition-limited",
+            "0.5/0.1": "acquisition-limited",
+            "0.5/0.2": "acquisition-limited",
+            "0.5/0.5": "acquisition-limited"
+          },
+          "modal": "acquisition-limited",
+          "modal_frac": 1.0
+        },
+        "M1+C300": {
+          "grid": {
+            "0.02/0.02": "acquisition-limited",
+            "0.02/0.05": "acquisition-limited",
+            "0.02/0.1": "acquisition-limited",
+            "0.02/0.2": "acquisition-limited",
+            "0.02/0.5": "acquisition-limited",
+            "0.05/0.02": "acquisition-limited",
+            "0.05/0.05": "acquisition-limited",
+            "0.05/0.1": "acquisition-limited",
+            "0.05/0.2": "acquisition-limited",
+            "0.05/0.5": "acquisition-limited",
+            "0.1/0.02": "acquisition-limited",
+            "0.1/0.05": "acquisition-limited",
+            "0.1/0.1": "acquisition-limited",
+            "0.1/0.2": "acquisition-limited",
+            "0.1/0.5": "acquisition-limited",
+            "0.2/0.02": "acquisition-limited",
+            "0.2/0.05": "acquisition-limited",
+            "0.2/0.1": "acquisition-limited",
+            "0.2/0.2": "acquisition-limited",
+            "0.2/0.5": "acquisition-limited",
+            "0.5/0.02": "acquisition-limited",
+            "0.5/0.05": "acquisition-limited",
+            "0.5/0.1": "acquisition-limited",
+            "0.5/0.2": "acquisition-limited",
+            "0.5/0.5": "acquisition-limited"
+          },
+          "modal": "acquisition-limited",
+          "modal_frac": 1.0
+        },
+        "M2": {
+          "grid": {
+            "0.02/0.02": "composition-limited",
+            "0.02/0.05": "composition-limited",
+            "0.02/0.1": "composition-limited",
+            "0.02/0.2": "composition-limited",
+            "0.02/0.5": "composition-limited",
+            "0.05/0.02": "composition-limited",
+            "0.05/0.05": "composition-limited",
+            "0.05/0.1": "composition-limited",
+            "0.05/0.2": "composition-limited",
+            "0.05/0.5": "composition-limited",
+            "0.1/0.02": "composition-limited",
+            "0.1/0.05": "composition-limited",
+            "0.1/0.1": "composition-limited",
+            "0.1/0.2": "composition-limited",
+            "0.1/0.5": "composition-limited",
+            "0.2/0.02": "composition-limited",
+            "0.2/0.05": "composition-limited",
+            "0.2/0.1": "composition-limited",
+            "0.2/0.2": "composition-limited",
+            "0.2/0.5": "composition-limited",
+            "0.5/0.02": "composition-limited",
+            "0.5/0.05": "composition-limited",
+            "0.5/0.1": "composition-limited",
+            "0.5/0.2": "composition-limited",
+            "0.5/0.5": "composition-limited"
+          },
+          "modal": "composition-limited",
+          "modal_frac": 1.0
+        },
+        "M2+C100": {
+          "grid": {
+            "0.02/0.02": "composition-limited",
+            "0.02/0.05": "composition-limited",
+            "0.02/0.1": "composition-limited",
+            "0.02/0.2": "composition-limited",
+            "0.02/0.5": "composition-limited",
+            "0.05/0.02": "composition-limited",
+            "0.05/0.05": "composition-limited",
+            "0.05/0.1": "composition-limited",
+            "0.05/0.2": "composition-limited",
+            "0.05/0.5": "composition-limited",
+            "0.1/0.02": "composition-limited",
+            "0.1/0.05": "composition-limited",
+            "0.1/0.1": "composition-limited",
+            "0.1/0.2": "composition-limited",
+            "0.1/0.5": "composition-limited",
+            "0.2/0.02": "composition-limited",
+            "0.2/0.05": "composition-limited",
+            "0.2/0.1": "composition-limited",
+            "0.2/0.2": "composition-limited",
+            "0.2/0.5": "composition-limited",
+            "0.5/0.02": "composition-limited",
+            "0.5/0.05": "composition-limited",
+            "0.5/0.1": "composition-limited",
+            "0.5/0.2": "composition-limited",
+            "0.5/0.5": "composition-limited"
+          },
+          "modal": "composition-limited",
+          "modal_frac": 1.0
+        },
+        "M2+C300": {
+          "grid": {
+            "0.02/0.02": "amplification",
+            "0.02/0.05": "amplification",
+            "0.02/0.1": "amplification",
+            "0.02/0.2": "amplification",
+            "0.02/0.5": "amplification",
+            "0.05/0.02": "amplification",
+            "0.05/0.05": "amplification",
+            "0.05/0.1": "amplification",
+            "0.05/0.2": "amplification",
+            "0.05/0.5": "amplification",
+            "0.1/0.02": "amplification",
+            "0.1/0.05": "amplification",
+            "0.1/0.1": "amplification",
+            "0.1/0.2": "amplification",
+            "0.1/0.5": "amplification",
+            "0.2/0.02": "amplification",
+            "0.2/0.05": "amplification",
+            "0.2/0.1": "amplification",
+            "0.2/0.2": "amplification",
+            "0.2/0.5": "amplification",
+            "0.5/0.02": "composition-limited",
+            "0.5/0.05": "composition-limited",
+            "0.5/0.1": "composition-limited",
+            "0.5/0.2": "composition-limited",
+            "0.5/0.5": "composition-limited"
+          },
+          "modal": "amplification",
+          "modal_frac": 0.8
+        }
+      }
+    }
+  }
+}
